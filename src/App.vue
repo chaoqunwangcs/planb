@@ -32,7 +32,7 @@ import { RouterLink, RouterView } from 'vue-router'
 .wrapper {
   display: flex;
   justify-content: space-between;
-
+  margin: 10px 0;
   .nav1 {
     display: flex;
     justify-content: space-between;
